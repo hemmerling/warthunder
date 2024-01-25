@@ -2,16 +2,12 @@ controls{
   version:i=5
 
   basePresetPaths{
-    default:t="wt/config/hotkeys/hotkey.keyboard_ver1.blk"
+    default:t="wt/config/hotkeys/hotkey.keyboard_shooter_ver2.blk"
   }
 
   hotkeys{
     ID_CONTINUE{
       keyboardKey:i=57
-    }
-
-    ID_FLIGHTMENU{
-      keyboardKey:i=1
     }
 
     ID_INTERNET_RADIO{
@@ -23,12 +19,21 @@ controls{
       keyboardKey:i=183
     }
 
+    ID_TARGETING_HOLD_GM{}
     ID_TOGGLE_VIEW_GM{
       keyboardKey:i=42
     }
 
     ID_TOGGLE_VIEW_GM{
       keyboardKey:i=54
+    }
+
+    ID_ZOOM_TOGGLE{
+      mouseButton:i=1
+    }
+
+    ID_ZOOM_TOGGLE{
+      keyboardKey:i=44
     }
   }
 
