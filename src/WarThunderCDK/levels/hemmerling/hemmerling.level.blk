@@ -1,0 +1,100 @@
+noteForCuriousHumanBeings:t="HANDS OFF!!!  This file and those in sub-folders here are used by DagorEditor, don't touch them!!!"
+lastUniqueId:i=1
+exportPath:t=""
+ambient_light_color:c=0, 10, 60, 255
+ambient_light_mult:r=0.1
+direct_light_color:c=255, 255, 242, 255
+direct_light_mult:r=0.685272
+light_direction_alpha:r=0.226187
+light_direction_beta:r=1.24794
+use_direct_light:b=yes
+tex_quality:i=0
+
+pluginsExport{
+  environment:b=yes
+  _acEntMgr:b=yes
+  _collision:b=yes
+  _dmEntMgr:b=yes
+  _fxEntMgr:b=yes
+  _goEntMgr:b=yes
+  _grassObj:b=yes
+  _hmapObj:b=yes
+  _lmeshObj:b=yes
+  _lmeshObjDet:b=yes
+  _navmesh:b=yes
+  _rend_ent_geom:b=yes
+  _rend_ground_obj:b=yes
+  _riEntMgr:b=yes
+  _waterSurf:b=yes
+  bin_scene_view:b=yes
+  mission_editor:b=yes
+}
+
+pluginsExternal{
+  environment:b=no
+  _acEntMgr:b=no
+  _collision:b=no
+  _dmEntMgr:b=no
+  _fxEntMgr:b=no
+  _goEntMgr:b=no
+  _grassObj:b=no
+  _hmapObj:b=no
+  _lmeshObj:b=no
+  _lmeshObjDet:b=no
+  _navmesh:b=no
+  _rend_ent_geom:b=no
+  _rend_ground_obj:b=no
+  _riEntMgr:b=no
+  _waterSurf:b=no
+  bin_scene_view:b=no
+  mission_editor:b=no
+}
+
+externalSource{
+  environment:b=no
+  _acEntMgr:b=no
+  _collision:b=no
+  _dmEntMgr:b=no
+  _fxEntMgr:b=no
+  _goEntMgr:b=no
+  _grassObj:b=no
+  _hmapObj:b=no
+  _lmeshObj:b=no
+  _lmeshObjDet:b=no
+  _navmesh:b=no
+  _rend_ent_geom:b=no
+  _rend_ground_obj:b=no
+  _riEntMgr:b=no
+  _waterSurf:b=no
+  bin_scene_view:b=no
+  mission_editor:b=no
+}
+
+externalPathes{
+  environment:t=""
+  _acEntMgr:t=""
+  _collision:t=""
+  _dmEntMgr:t=""
+  _fxEntMgr:t=""
+  _goEntMgr:t=""
+  _grassObj:t=""
+  _hmapObj:t=""
+  _lmeshObj:t=""
+  _lmeshObjDet:t=""
+  _navmesh:t=""
+  _rend_ent_geom:t=""
+  _rend_ground_obj:t=""
+  _riEntMgr:t=""
+  _waterSurf:t=""
+  bin_scene_view:t=""
+  mission_editor:t=""
+}
+
+disabled_colliders{}
+filters_export{
+  _grassObj:b=yes
+  _hmapObj:b=yes
+  _lmeshObj:b=yes
+  _lmeshObjDet:b=yes
+  _waterSurf:b=yes
+}

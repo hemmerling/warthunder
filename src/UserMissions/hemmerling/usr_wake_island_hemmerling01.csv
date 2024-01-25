@@ -1,0 +1,5 @@
+"<ID|readonly|noverify>";"<English>";"<German>";"<Comments>";"<max_chars>";
+"cdk_tutorial_mission_takeoff";"Take off and follow the attack group leader";"Abheben und dem AnFührer der Angriffsgruppe folgen";
+"missions/wake_island_cdk_tutorial_mission01";"Will not be displayed";"Wird nicht angezeigt";
+"missions/wake_island_cdk_tutorial_mission01/objective";"Create and run your first mission";"Erstelle Deine erste Mission und führe sie durch";
+"missions/wake_island_cdk_tutorial_mission01/date";"2020-08-04";"2020-08-04";

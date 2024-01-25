@@ -1,0 +1,284 @@
+noteForCuriousHumanBeings:t="HANDS OFF!!!  This file and those in sub-folders here are used by DagorEditor, don't touch them!!!"
+"render shadows":b=yes
+"render VSM shadows":b=no
+"use SSAO":b=yes
+"use SSR":b=yes
+"no sun":b=no
+"no amb":b=no
+"no envi refl":b=no
+"no transp":b=no
+"no postfx":b=no
+shadowQ:i=0
+exposure:r=1
+rdbgType:i=0
+rdbgUseNmap:b=yes
+rdbgUseDtex:b=yes
+rdbgUseLt:b=yes
+rdbgUseChrome:b=yes
+environment_settings_fn:t=""
+paint_details_tex:t=""
+viewportLayoutId:i=127
+animateViewports:b=yes
+useOccludersAndPortals:b=no
+use_dyn_lighting:b=no
+
+render{
+  renderType:i=2
+}
+
+viewport0{
+  orthogonalProjection:b=no
+  projectionFov:r=1.5708
+  projectionFarPlane:r=15000
+  projectionNearPlane:r=0.1
+  orthogonalZoom:r=4.68655e+11
+  currentProjection:t="Perspective"
+  viewMatrix0:p3=-0.860407, -0.0665909, -0.505238
+  viewMatrix1:p3=1.59815e-06, 0.991426, -0.130674
+  viewMatrix2:p3=0.509607, -0.112433, -0.85303
+  viewMatrix3:p3=908.13, -1388.53, -1419.37
+  wireframe:b=no
+  stat3d:b=no
+  stat3d_opaque:b=no
+  show_camera_pos:b=no
+
+  stat3d_list{}
+}
+
+freeCamera{
+  move_step:r=18
+  rotation_step:r=18
+  strife_step:r=18
+  control_multiplier:r=88.6667
+
+  commonInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+
+  hangInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+
+  vangInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+}
+
+maxCamera{
+  move_step:r=8
+  rotation_step:r=18
+  strife_step:r=18
+  control_multiplier:r=12
+
+  commonInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+
+  hangInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+
+  vangInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+}
+
+fpsCamera{
+  move_step:r=3.5
+  rotation_step:r=18
+  strife_step:r=3.5
+  control_multiplier:r=3.5
+  height:r=1.8
+  half_height:r=1.2
+  step_height:r=0.5
+  step_half_height:r=0.2
+  radius:r=0.3
+  gravity:r=9.8
+  jumpSpeed:r=4
+
+  commonInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+
+  hangInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+
+  vangInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+}
+
+tpsCamera{
+  move_step:r=3.5
+  rotation_step:r=18
+  strife_step:r=3.5
+  control_multiplier:r=3.5
+  height:r=1.8
+  half_height:r=1.2
+  step_height:r=0.5
+  step_half_height:r=0.2
+  radius:r=0.3
+  gravity:r=9.8
+  jumpSpeed:r=4
+  minDist:r=4.5
+  maxMaxDist:r=10
+  maxOutSpeed:r=5
+  minVAng:r=-1.53589
+  maxVAng:r=1.39626
+
+  commonInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+
+  hangInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+
+  vangInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+}
+
+carCamera{
+  move_step:r=3.5
+  rotation_step:r=18
+  strife_step:r=3.5
+  control_multiplier:r=3.5
+  height:r=1.8
+  half_height:r=1.2
+  step_height:r=0.5
+  step_half_height:r=0.2
+  radius:r=0.3
+  gravity:r=9.8
+  jumpSpeed:r=4
+  minDist:r=4.5
+  maxMaxDist:r=10
+  maxOutSpeed:r=5
+  minVAng:r=-1.53589
+  maxVAng:r=1.39626
+
+  commonInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+
+  hangInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+
+  vangInertia{
+    stop:r=0.05
+    move:r=0.9
+  }
+}
+
+grid{
+  grid_visible0:b=yes
+  grid_visible1:b=no
+  grid_visible2:b=no
+  grid_visible3:b=no
+  step:r=1000
+  angle_step:r=2.5
+  scale_step:r=10
+  grid_height:r=0
+  move_snap_on:b=no
+  rotate_snap_on:b=yes
+  scale_snap_on:b=yes
+  draw_major_lines:b=yes
+}
+
+ViewportsParams{}
+local_plugin_data{
+  environment{
+    visible:b=yes
+    forceWeather:b=no
+    forceGeoDate:b=no
+    forceTime:b=no
+    forceSeed:b=no
+    latitude:r=55
+    yyyy:i=1944
+    mm:i=6
+    dd:i=6
+    timeOfDay:r=12
+    rndSeed:i=1234
+    znzfScale:r=5
+  }
+
+  _acEntMgr{
+    visible:b=yes
+  }
+
+  _collision{
+    visible:b=no
+  }
+
+  _dmEntMgr{
+    visible:b=yes
+  }
+
+  _fxEntMgr{
+    visible:b=yes
+  }
+
+  _goEntMgr{
+    visible:b=yes
+  }
+
+  _grassObj{
+    visible:b=yes
+  }
+
+  _hmapObj{
+    visible:b=yes
+  }
+
+  _lmeshObj{
+    visible:b=yes
+  }
+
+  _lmeshObjDet{
+    visible:b=yes
+  }
+
+  _navmesh{
+    visible:b=yes
+  }
+
+  _rend_ent_geom{
+    visible:b=yes
+  }
+
+  _rend_ground_obj{
+    visible:b=no
+  }
+
+  _riEntMgr{
+    visible:b=yes
+  }
+
+  _waterSurf{
+    visible:b=yes
+  }
+
+  bin_scene_view{
+    visible:b=yes
+  }
+
+  mission_editor{
+    visible:b=yes
+  }
+}

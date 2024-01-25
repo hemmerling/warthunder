@@ -1,0 +1,12 @@
+*.bak
+src/camouflage/original/*.tga
+src/camouflage/personal/*.tga
+*/builtScene/*
+*/bin_scene_view/*
+*/clipping/*
+*/environment/*
+*/heightmapLand/*
+*/mission_editor/*
+*/occluders/*
+*/scnExport/*
+*/staticGeometry/*

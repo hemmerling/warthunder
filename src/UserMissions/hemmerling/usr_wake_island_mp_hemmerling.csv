@@ -1,0 +1,7 @@
+"<ID|readonly|noverify>";"<English>";"<German>";"<Comments>";"<max_chars>";
+"cdk_tutorial_mission_takeoff";"Take off and follow the attack group leader";"Abheben und dem Anführer der Angriffsgruppe folgen";
+"cdk_tutorial_mission_destroy_bombers";"Destroy enemy bombers";"Zerstöre die feindlichen Bomber";
+"cdk_tutorial_mission_return";"Return to the base";"Kehre zur Basis zurück";
+"missions/wake_island_cdk_tutorial_mp_mission";"Will not be displayed";"Wird nicht angezeigt";
+"missions/wake_island_cdk_tutorial_mp_mission/objective";"Create and run your first mp mission";"Erstelle Deine erste MP Mission und führe sie durch";
+"missions/wake_island_cdk_tutorial_mp_mission/date";"2023-04-17";"2023-04-17";

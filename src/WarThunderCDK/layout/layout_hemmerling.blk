@@ -1,0 +1,84 @@
+main_window{
+  pos:ip2=-8, -8
+}
+
+win_0{
+  children:ip2=1, 2
+  position:p4=0, 2, 1536, 781
+  vertical:i=0
+  movable:i=0
+  type:i=0
+  fixed:i=0
+}
+
+win_1{
+  children:ip2=0, 0
+  position:p4=0, 2, 1536, 28
+  vertical:i=1
+  movable:i=0
+  type:i=0
+  fixed:i=2
+}
+
+win_2{
+  children:ip2=3, 4
+  position:p4=0, 33, 1536, 781
+  vertical:i=0
+  movable:i=0
+  type:i=0
+  fixed:i=0
+}
+
+win_3{
+  children:ip2=0, 0
+  position:p4=0, 33, 1536, 53
+  vertical:i=1
+  movable:i=0
+  type:i=1
+  fixed:i=2
+}
+
+win_4{
+  children:ip2=5, 6
+  position:p4=0, 58, 1536, 781
+  vertical:i=0
+  movable:i=0
+  type:i=0
+  fixed:i=0
+}
+
+win_5{
+  children:ip2=0, 0
+  position:p4=0, 58, 1536, 84
+  vertical:i=1
+  movable:i=0
+  type:i=2
+  fixed:i=2
+}
+
+win_6{
+  children:ip2=7, 8
+  position:p4=0, 89, 1536, 781
+  vertical:i=1
+  movable:i=0
+  type:i=0
+  fixed:i=0
+}
+
+win_7{
+  children:ip2=0, 0
+  position:p4=0, 89, 1251, 781
+  vertical:i=1
+  movable:i=0
+  type:i=3
+  fixed:i=0
+}
+
+win_8{
+  children:ip2=0, 0
+  position:p4=1256, 89, 1536, 781
+  vertical:i=1
+  movable:i=0
+  type:i=140
+  fixed:i=1
+}

@@ -1,0 +1,12 @@
+rt_leafSize:p3=4, 8, 4
+rt_levels:i=7
+rt_gridStep:r=50
+rt_minMutualOverlap:r=0.95
+rt_minSmallOverlap:r=0.1
+rt_minFaceCnt:i=8
+
+EditClipPlugNames{
+}
+
+disabled_game_collision{
+}
